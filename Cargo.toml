@@ -1,0 +1,11 @@
+[package]
+name = "kalibunga"
+version = "0.1.0"
+authors = ["Alex Jenkins <biz@alexj.io>"]
+
+[dependencies]
+termcolor = "1.2"
+
+[[bin]]
+name = "kalibunga"
+path = "src/main.rs"
