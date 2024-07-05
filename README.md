@@ -2,6 +2,7 @@
 
 ## About
 #### Make Fedora Linux Ethical Hacking Compatible by installing the most commonly used Kali Linux packages and tweaks
+Kalibunga - A portmanteau on the ethical hacking Linux distrobution "Kali Linux", and the English word "[Cowabunga](https://www.urbandictionary.com/define.php?term=cowabunga)"
 
 Please consider supporting the development of this project:
 
@@ -155,3 +156,9 @@ cd kalibunga
 cargo build
 sudo cargo run
 ```
+
+## Notice:
+I take no responsibility for any damage caused by this script. Use at your own risk, and knowing the risks to others. Intended for educational purposes only.
+
+### Attribution:
+Yurin Doctrine: [pentest-base-popular](https://github.com/YurinDoctrine/pentest-base-popular)
