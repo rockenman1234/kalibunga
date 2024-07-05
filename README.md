@@ -2,7 +2,7 @@
 
 ## About
 #### Make Fedora Linux Ethical Hacking Compatible by installing the most commonly used Kali Linux packages and tweaks
-Kalibunga - A portmanteau on the ethical hacking Linux distrobution "Kali Linux", and the English word "[Cowabunga](https://www.urbandictionary.com/define.php?term=cowabunga)"
+Kalibunga - A portmanteau on the ethical hacking Linux distributions "Kali Linux", and the English word "[Cowabunga](https://www.urbandictionary.com/define.php?term=cowabunga)"
 
 Please consider supporting the development of this project:
 
@@ -144,7 +144,7 @@ That's over 3.5 Gigabytes of packages ontop of the base Fedora install, and grow
 
 ## Why Fedora?
 Fedora is a stable distribution built by avid performance and security experts. It is known for its robust security features, frequent updates, and strong community support, making it an excellent choice for both desktop and server environments.
-Additionally, Fedora is owned and managed by IBM - which means that it's one of the few distrobutions of linux left that's both being overseen and developed by an American company.
+Additionally, Fedora is owned and managed by IBM - which means that it's one of the few distributions of linux left that's both being overseen and developed by an American company.
 
 ## Installation Steps
 Make sure you have ```rust, cargo``` installed and configured on your system. 
