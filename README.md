@@ -173,7 +173,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-I take no responsibility for any damage caused by this script. Use at your own risk, and knowing the potential risks to others. Intended for educational purposes only.
+TLDR: I take no responsibility for any damage caused by this script. Use at your own risk, and knowing the potential risks to others. Intended for educational purposes only.
 
 ### Attribution:
 Yurin Doctrine: [pentest-base-popular](https://github.com/YurinDoctrine/pentest-base-popular)
