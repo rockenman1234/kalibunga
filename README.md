@@ -1,4 +1,4 @@
-# KaliBunga <img src="https://github.com/rockenman1234/kalibunga/blob/main/assets/logo-nobg.png" alt="KaliBunga Logo" width="150">
+# <img src="https://github.com/rockenman1234/kalibunga/blob/main/assets/logo-nobg.png" alt="KaliBunga Logo" width="150"> KaliBunga 
 
 ## About
 #### Make Fedora Linux Ethical Hacking Compatible by installing the most commonly used Kali Linux packages and tweaks
