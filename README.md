@@ -8,6 +8,13 @@ Please consider supporting the development of this project:
 
 <a href="https://www.buymeacoffee.com/alexjenkins" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+### Watch how easy it is to get Kali's tools on Fedora!
+![Tada!](https://github.com/rockenman1234/kalibunga/blob/main/assets/render1720323365063.gif?raw=true)
+
+
+
+
+
 ## What Does KaliBunga Install?
 Kalibunga installs the following programs:
 
