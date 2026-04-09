@@ -1,4 +1,19 @@
 # <img src="https://github.com/rockenman1234/kalibunga/blob/main/assets/logo-nobg.png" alt="KaliBunga Logo" width="150"> KaliBunga 
+---
+
+# ARCHIVAL NOTICE
+## Since [Fedora Security Lab](https://fedoraproject.org/labs/security/) has merged more into the existing Fedora ecosystem, I've decided to archive this project. 
+
+For users who want to install Fedora Security Lab, but are already on Fedora - run the commands below to install the full lab to your system. (Tested on F43, DNF5+)
+
+```bash
+sudo dnf install @security-lab
+```
+Thanks, and happy hacking y'all!
+
+---
+---
+---
 
 ## About
 #### Make Fedora Linux Ethical Hacking Compatible by installing the most commonly used Kali Linux packages and tweaks
